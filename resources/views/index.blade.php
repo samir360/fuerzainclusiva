@@ -1,0 +1,1 @@
+@extends('backend.layouts.master_login')@section('content')    {{'hola'}}@stop
